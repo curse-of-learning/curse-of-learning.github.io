@@ -1,1 +1,1 @@
-# curse-of-learning.github.io
+# The 'curse of learning'.
