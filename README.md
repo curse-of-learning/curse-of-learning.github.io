@@ -5,3 +5,4 @@
   dual to the "Curse of Dimensionality" - the explosion of dimensionality with increase
   of complexity.
 </pre>
+This is the entrance of the Rabbit hole: [Rabbit hole entrance](https://curse-of-learning.github.io/pages/page1.md)
